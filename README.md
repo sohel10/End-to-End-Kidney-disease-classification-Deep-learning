@@ -16,7 +16,7 @@ Each tile displays the predicted class and model confidence.
 
 📌 Useful for quick visual verification across patient cases.
 
-<p align="center"> <img src="outputs/kidney_prediction_grid.png" width="85%" alt="Kidney Prediction Grid"> </p>
+<p align="center"> <img src="kidney_prediction_grid.png" width="85%" alt="Kidney Prediction Grid"> </p>
 🔥 2. Grad-CAM: Explainable AI for Medical Imaging
 
 Deep learning models often act as “black boxes.”
@@ -37,7 +37,7 @@ Each panel includes:
 
 Original Image Grad-CAM Heatmap Grad-CAM Overlay
 
-<p align="center"> <img src="outputs/gradcam_4panel.png" width="90%" alt="GradCAM 4 Panel Image"> </p>
+<p align="center"> <img src="gradcam_4panel.png" width="90%" alt="GradCAM 4 Panel Image"> </p>
 
 ## 🔎 Crucial for clinical validation and medical AI transparency.
 
