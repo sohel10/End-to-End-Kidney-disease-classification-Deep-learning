@@ -11,6 +11,21 @@ datasets/
 *.rar
 
 
+artifacts/
+outputs/
+*.h5
+*.hdf5
+*.tfevents.*
+*.jpg
+*.png
+*.zip
+*.pt
+*.pth
+__pycache__/
+logs/
+tensorboard/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
